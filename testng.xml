@@ -10,7 +10,7 @@
       <class name="com.actitime.test.Test_deletework"/>
       <class name="com.actitime.test.Test_createLeave"/>
       <class name="com.actitime.test.Test_editLeave"/>
-      <class name="com.actitime.test.test_random"/>
+     
       <class name="com.actitime.test.Test_deletecustomer"/>
       <class name="com.actitime.test.Test_creatework"/>
     </classes>
