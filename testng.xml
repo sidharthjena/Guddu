@@ -3,15 +3,16 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.actitime.test.Test_login"/>    
       <class name="com.actitime.test.Test_createcustomer"/>
-      <class name="com.actitime.test.Test_deletecustomer"/>
-      <class name="com.actitime.test.Test_creatework"/>
+      <class name="com.actitime.test.Test_deleteLeave"/>
+      <class name="com.actitime.test.Test_login"/>
       <class name="com.actitime.test.Test_editwork"/>
       <class name="com.actitime.test.Test_deletework"/>
       <class name="com.actitime.test.Test_createLeave"/>
       <class name="com.actitime.test.Test_editLeave"/>
-      <class name="com.actitime.test.Test_deleteLeave"/> 
+      <class name="com.actitime.test.test_random"/>
+      <class name="com.actitime.test.Test_deletecustomer"/>
+      <class name="com.actitime.test.Test_creatework"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
